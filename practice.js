@@ -14,8 +14,9 @@
   Then alert your name using dot notation.
 */
 
-//Code here
-
+let me = {
+  name: 'Adrienne', age: '34'
+}
 
 
 ////////// PROBLEM 2 //////////
@@ -25,7 +26,9 @@
   Have the values to those keys be your favorite thing in that category.
 */
 
-//Code here
+let favoriteThings = {
+  band: 'Tracy Chapman', food: 'Italian', person: 'Myself', book: 'Twelve Cesears', movie: 'Uusal Suspects', holiday: 'Christmas'
+};
 
 
 
